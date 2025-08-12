@@ -1,0 +1,60 @@
+[33mcommit ae11dd3292207423b199ad0f1d076ae2b1aa2a54[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Navneet verma <navneet@gmail.com>
+Date:   Tue Aug 12 23:11:29 2025 +0530
+
+    adding cors require
+
+[33mcommit 8c72130b76fcf370090aaf673fa8f89e55d3a05f[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 9947576 edab3bb
+Author: Navneet verma <navneet@gmail.com>
+Date:   Tue Aug 12 23:10:09 2025 +0530
+
+    Merge branch 'main' of github.com:Navneet-786/learning-git
+
+[33mcommit 9947576e6587d84c6052f847737f9ffa81ad1bf6[m
+Author: Navneet verma <navneet@gmail.com>
+Date:   Tue Aug 12 23:02:14 2025 +0530
+
+    adding middlewares and set cors policy
+
+[33mcommit edab3bb961e58d92ca64fad85168de9594b5202a[m
+Merge: c64c959 101f8ed
+Author: Navneet verma <vermamanu52528591@gmail.com>
+Date:   Tue Aug 12 23:05:08 2025 +0530
+
+    Merge pull request #2 from Navneet-786/saurabh
+    
+    adding middlewares and set cors policy
+
+[33mcommit 101f8edc6ac389a7ca41e911b4fa117790fc9489[m[33m ([m[1;31morigin/saurabh[m[33m, [m[1;32msaurabh[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Navneet verma <navneet@gmail.com>
+Date:   Tue Aug 12 23:02:14 2025 +0530
+
+    adding middlewares and set cors policy
+
+[33mcommit c64c959b21df82076c59ea8056e271a656e3667c[m
+Merge: cb6f635 8adc0d0
+Author: Navneet verma <vermamanu52528591@gmail.com>
+Date:   Tue Aug 12 22:55:53 2025 +0530
+
+    Merge pull request #1 from Navneet-786/navneet
+    
+    adding .env and basic PORT setup at index.js
+
+[33mcommit 8adc0d01f0d9e0e7ce20b2a2d3da2332f6b92595[m[33m ([m[1;31morigin/navneet[m[33m, [m[1;32mnavneet[m[33m)[m
+Author: Navneet verma <navneet@gmail.com>
+Date:   Tue Aug 12 22:51:24 2025 +0530
+
+    adding .env and basic PORT setup at index.js
+
+[33mcommit cb6f6359a4c340c1c003ee5dd75e20537cefab84[m
+Author: Navneet verma <navneet@gmail.com>
+Date:   Tue Aug 12 22:47:30 2025 +0530
+
+    adding dev script in package.json
+
+[33mcommit 9153a9d4801162bab70d5b2b6a9780c4efc969af[m
+Author: Navneet verma <navneet@gmail.com>
+Date:   Tue Aug 12 22:45:07 2025 +0530
+
+    install basic packages express ,mongoose,bcrytjs,jsonwebtoken,cors etc

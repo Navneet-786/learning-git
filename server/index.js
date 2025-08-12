@@ -3,7 +3,8 @@ const express = require("express");
 const app = express();
 const cookieParser = require("cookie-parser");
 const cors = require("cors");
-PORT = process.env.PORT || 8080;
+const { connectToDB } = require("./config/database");
+const PORT = process.env.PORT || 8080;
 
 // middleware setup
 app.use(
@@ -17,6 +18,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser);
 
+connectToDB();
 app.listen(PORT, () => {
   console.log("server is connected");
 });
